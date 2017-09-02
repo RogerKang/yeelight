@@ -1,0 +1,15 @@
+{
+  "name": "yeelight-demo",
+  "version": "1.0.0",
+  "description": "A nodejs demo for yeelight control",
+  "main": "test.js",
+  "dependencies": {
+    "node-yeelight": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
